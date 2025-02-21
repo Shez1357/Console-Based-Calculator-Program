@@ -14,6 +14,8 @@ This is a basic calculator program made in C++. It supports the following operat
  
  It then also saves the calculation history to a text file (Calculations.txt).
 
+The source files will only run on visual studio 2022.
+
  # Features
 
  **User Validation**: It ensures that the user only inputs valid data for the calculation.
